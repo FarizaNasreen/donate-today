@@ -1,0 +1,9 @@
+.header{
+    height: 650px;
+    
+    background-image: url("images/donation0.jpg");
+    background-repeat: no-repeat;
+    font-size: 35px;
+    color: white;
+    vertical-align:middle ;
+}
