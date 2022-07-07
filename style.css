@@ -17,3 +17,26 @@ button{
     font-weight: bold;
     color: white;
 }
+
+#font_ash{
+    color: cornflowerblue;
+}
+.flex-container > div {
+    background-color: #f1f1f1;    
+    margin: 20px;
+    padding: 35px;
+    font-size: 25px;
+    font:bolder; 
+    border-radius: 5%;    
+    color:rgb(169, 86, 86);
+    
+  }
+  .flex-container {
+    display: flex;        
+    }
+
+    #selected{
+    border-style:solid;
+    border-width: thin;
+    border-color:red;
+    }
