@@ -45,5 +45,9 @@ button{
 input{
     text-align: center;
     outline-style: none;
+    outline:none;
 
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
 }
