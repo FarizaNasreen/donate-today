@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .header{
     height: 650px;
     
@@ -128,7 +131,8 @@ input:focus, textarea:focus, select:focus{
         text-align: left;
         height: 35px;
         width: 200px;
-        background-color: cadetblue;
+        background-color: rgb(193, 188, 188);
+        
         
     }
       
@@ -151,7 +155,5 @@ input:focus, textarea:focus, select:focus{
 }
 #footer_table{
     width: 100%;
-    
     background-color: black;
-
 }
